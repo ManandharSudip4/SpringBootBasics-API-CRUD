@@ -1,6 +1,6 @@
 ## Spring Boot Basics
 ### API
-    Just tried springboot framework for mkaing basic APIs
+    Just tried springboot framework for making basic APIs.
 ### CRUD
     Tried all CRUD operations
 ### Dependency Injection
